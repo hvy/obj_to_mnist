@@ -12,6 +12,6 @@ An example model from the [ShapeNet](https://www.shapenet.org/) dataset rendered
 
 ### Output .png
 
+<img src="./example_2d_0.png" width="128px;"/>
 <img src="./example_2d_1.png" width="128px;"/>
 <img src="./example_2d_2.png" width="128px;"/>
-<img src="./example_2d_3.png" width="128px;"/>
