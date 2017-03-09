@@ -8,10 +8,10 @@ An example model from the [ShapeNet](https://www.shapenet.org/) dataset rendered
 
 ### Input .obj
 
-<img src="./example_3d" width="256px;"/>
+<img src="./example_3d.png" width="256px;"/>
 
 ### Output .png
 
-<img src="./example_2d_1" width="128px;"/>
-<img src="./example_2d_2" width="128px;"/>
-<img src="./example_2d_3" width="128px;"/>
+<img src="./example_2d_1.png" width="128px;"/>
+<img src="./example_2d_2.png" width="128px;"/>
+<img src="./example_2d_3.png" width="128px;"/>
